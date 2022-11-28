@@ -18,33 +18,6 @@ AWS Access & Secret Key
 
 In this project, I have used some variables also that I will discuss later in this article.
 
-Modules are created in the Application folder.
-.
-├── main.tf
-├── modules
-│   ├── elb
-│   │   ├── elb.tf
-│   │   └── variable.tf
-│   ├── rds
-│   │   ├── rds.tf
-│   │   └── variable.tf
-│   ├── securitygroup
-│   │   ├── output.tf
-│   │   ├── sg.tf
-│   │   └── variable.tf
-│   ├── subnet
-│   │   ├── output.tf
-│   │   ├── subnet.tf
-│   │   └── variable.tf
-│   └── vpc
-│       ├── output.tf
-│       ├── variable.tf
-│       └── vpc.tf
-├── provider.tf
-├── terraform.tfstate
-├── terraform.tfstate.backup
-└── variable.tf
-
 Documentation - 
 https://github.com/suyog-24/End-to-End-Application.git
 
