@@ -19,5 +19,4 @@ AWS Access & Secret Key
 In this project, I have used some variables also that I will discuss later in this article.
 
 Documentation - 
-https://github.com/suyog-24/End-to-End-Application.git
-
+https://docs.google.com/document/d/1N7Xg0P1icAewGe9C3EK-a6u7g0vC3rRbbrk0Ke4Vi44/edit?usp=sharing
